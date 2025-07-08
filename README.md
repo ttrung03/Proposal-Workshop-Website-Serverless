@@ -1,3 +1,15 @@
+# Project Overview
+
+## Executive Summary (10%)
+- Tóm tắt mục tiêu dự án
+
+---
+
+## Cấu Trúc Dự Án
+
+Để biết thêm chi tiết về đề xuất dự án, vui lòng tham khảo [Proposal: Website Serverless Quản Lý Thông Tin Sinh Viên với AWS](./proposal.md).
+
+
 # Proposal: Website Serverless Quản Lý Thông Tin Sinh Viên với AWS
 
 ## 1. 📄 Executive Summary (10%)
